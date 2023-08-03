@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T14:21:40.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="55UPUHdnyCKcne43E9nQ" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T14:22:00.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="xabrI5zqHpNuLldC4dFx" version="21.6.6" type="github">
   <diagram name="페이지-1" id="v46Kw6hZMWN8n9hihEqH">
     <mxGraphModel dx="1071" dy="1174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Re4XzMObqfCqmsB2IL9Q-41" value="my-igw" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.internet_gateway;" parent="Re4XzMObqfCqmsB2IL9Q-1" vertex="1">
-          <mxGeometry x="275" y="30" width="38" height="38" as="geometry" />
+          <mxGeometry x="241" y="90" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="whf_MD7dpo_F-JLpSCtN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Re4XzMObqfCqmsB2IL9Q-1" source="whf_MD7dpo_F-JLpSCtN-1" target="whf_MD7dpo_F-JLpSCtN-2">
           <mxGeometry relative="1" as="geometry" />
