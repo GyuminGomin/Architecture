@@ -1,9 +1,12 @@
-<mxfile modified="2023-09-25T07:00:23.321Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="R7HKXw3gZtX7CeS_yDnn" version="21.6.5" type="github">
+<mxfile modified="2023-09-25T07:29:45.326Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4FW2QC-JDiKide1TuYKV" version="21.8.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1349" dy="2257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="952" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="e8tlhrcb7yCJBZUDDpaf-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;상품 검색 : &lt;b style=&quot;background-color: rgb(60, 255, 0);&quot;&gt;고객&lt;/b&gt;은 상품을 다양한 기준으로 검색 할 수 있어야 한다.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;상품 구매 : 고객은 검색된 상품 중 원하는 상품을 구매할 수 있어야 한다.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;단, 상품을 구매하기 위해서는 로그인을 해야 한다.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;장바구니 관리 : 고객은 장바구니에 상품을 추가하거나 제거할 수 있어야 한다.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;회원 가입 : 새로운 사용자는 회원 가입을 통해 쇼핑몰의 회원이 될 수 있어야 한다.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;로그인 : 사용자는 자신의 계정으로 로그인 할 수 있어야 한다.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;상품 등록 : 판매자는 상품을 등록 할 수 있어야 하며, 로그인 후에 가능하다.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;주문 관리 : 판매자는 주문을 확인하고, 처리상태를 업데이트 할 수 있어야 한다.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;시스템 관리 : 관리자는 시스템 전반을 관리할 수 있어야 한다. 로그인 후에 가능하다.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;ACTOR : 고객,&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="70" width="450" height="260" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
