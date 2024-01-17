@@ -1,49 +1,240 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T12:16:38.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.17" etag="jzMTGbA24OmZ3HN7MMWP" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T13:09:29.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ADE1ZJ-g2N8xR1DedoCN" version="22.1.17" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1223" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="904" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+        <mxCell id="Rpw-q_x05drDyyP509-S-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rpw-q_x05drDyyP509-S-0" target="Rpw-q_x05drDyyP509-S-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Lamp doesn&#39;t work" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="Rpw-q_x05drDyyP509-S-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rpw-q_x05drDyyP509-S-0" target="Rpw-q_x05drDyyP509-S-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="95" y="190" />
+              <mxPoint x="241" y="190" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
-          <mxGeometry y="20" relative="1" as="geometry">
+        <mxCell id="Rpw-q_x05drDyyP509-S-0" value="홈페이지" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="45" y="112" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-1" value="https://shop.com/" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-2" value="주소는 이해를 돕기 위한 예시일 뿐입니다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-4" value="로그인" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="265" y="112" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-5" value="https://shop.com/login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="80" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-6" value="회원가입" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="206" y="232" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-7" value="https://shop.com/logon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="171" y="200" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-8" value="관리자 : 회원가입이 필요없음&lt;br&gt;상인 : 회원가입시 상인으로 등록&lt;br&gt;구매자 : 회원가입시 일반회원 등록" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="238.5" width="188" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-12" value="초기 접속시 HomePage로 접속 (Header, Footer, Navigation, Section을 어떻게 나눌지 생각 못해봄)&lt;br&gt;Header에 있는 회원가입으로 회원가입 접속, 로그인으로 로그인 접속" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="29" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-35" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;elbow=vertical;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rpw-q_x05drDyyP509-S-17" target="Rpw-q_x05drDyyP509-S-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-17" value="간단히 생각&amp;nbsp;&lt;br&gt;관리자 : 1. 회원관리 2. 서버모니터링(Prometheus port로 접속) 3. 문의사항 확인&lt;br&gt;상인 : 1. 상품관리 2. 상품 등록 3. 판매 현황 확인 + (각 페이지마다 문의 사항 코멘트 필요)&lt;br&gt;일반회원 : 1. 상품조회 2. 상품구매 3.장바구니(마이페이지) + (1,2 문의 사항 코멘트 필요)&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="110" width="500" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rpw-q_x05drDyyP509-S-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="209" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-25" value="관리자 로그인" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rpw-q_x05drDyyP509-S-24">
+          <mxGeometry x="-0.16" y="-2" relative="1" as="geometry">
+            <mxPoint x="-36" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-18" value="홈페이지" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="159" y="340" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=1 4;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rpw-q_x05drDyyP509-S-21" target="Rpw-q_x05drDyyP509-S-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="235" />
+              <mxPoint x="360" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-21" value="생각하고 있는 것은 관리자의 홈페이지 로그인 후 Navigation과&lt;br&gt;상인과 일반회원의 로그인 후 Navigation이 달라야 한다고 생각 (Header와 Footer는 같다)&lt;br&gt;즉, 관리자로 접속하면, Navigation이 3개로 회원관리, 서버모니터링, 문의사항 확인&lt;br&gt;상인과 일반회원 Navigation -&amp;gt; 상품관리, 상품등록, 상품조회, 상품구매, 장바구니, 판매현황확인" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="200" width="530" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-22" value="관리자" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="179" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rpw-q_x05drDyyP509-S-26" target="Rpw-q_x05drDyyP509-S-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-31" value="로그인 성공" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rpw-q_x05drDyyP509-S-30">
+          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
+        <mxCell id="Rpw-q_x05drDyyP509-S-26" value="로그인" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="174" y="450" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rpw-q_x05drDyyP509-S-29" target="Rpw-q_x05drDyyP509-S-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rpw-q_x05drDyyP509-S-29" target="Rpw-q_x05drDyyP509-S-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rpw-q_x05drDyyP509-S-29" target="Rpw-q_x05drDyyP509-S-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-29" value="홈페이지" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="174" y="570" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rpw-q_x05drDyyP509-S-26" target="Rpw-q_x05drDyyP509-S-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-33" value="로그인 실패" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rpw-q_x05drDyyP509-S-32">
+          <mxGeometry x="0.3333" y="1" relative="1" as="geometry">
+            <mxPoint x="35" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-34" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;붙임말 : &lt;br&gt;제가 생각한 프로젝트는 별 특별한 것이 없습니다. spring boot로 프로젝트를 해본 적이 없어서 한참 부족하긴 하지만,&lt;br&gt;그렇기에 여기까지 간략하게 나마 미흡한 지식으로 생각을 해보았네요.&lt;br&gt;제가 이 프로젝트에서 꼭 가져가고자 하는 것 한 가지는 실제로 프로젝트를 진행해보며, 어떻게 쇼핑몰 도메인이 구성되어 있는지&lt;br&gt;여러가지 생각을 해보며 현업의 분위기를 느껴보자 함입니다.&lt;br&gt;저는 간략하게나마 구현해보다 추가하고 싶어지면 더 추가하고 안될것 같으면 포기해도 된다고 생각합니다.&lt;br&gt;aws를 통해 배포도 해보고 실제 브라우저 접속 테스트도 해보며 여러가지 경험을 쌓는 좋은 기회가 되지 않을까 생각합니다.&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="45" y="990" width="760" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-37" value="서버관리" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="173" y="670" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-38" value="유저관리" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="93" y="670" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-39" value="문의사항" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="254" y="670" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-40" value="https://shop.com/userManage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="33" y="730" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-41" value="https://shop.com/prom" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="134" y="640" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-42" value="https://shop.com/comment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="209" y="730" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rpw-q_x05drDyyP509-S-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="559" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-47" value="일반회원, 상인 로그인" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rpw-q_x05drDyyP509-S-46">
+          <mxGeometry x="-0.16" y="-2" relative="1" as="geometry">
+            <mxPoint x="-54" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-48" value="홈페이지" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="509" y="340" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-49" value="회원들" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="529" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rpw-q_x05drDyyP509-S-52" target="Rpw-q_x05drDyyP509-S-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-51" value="로그인 성공" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rpw-q_x05drDyyP509-S-50">
+          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Lamp&lt;br&gt;plugged in?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
+        <mxCell id="Rpw-q_x05drDyyP509-S-52" value="로그인" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="524" y="450" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="190" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
-          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="Rpw-q_x05drDyyP509-S-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rpw-q_x05drDyyP509-S-56" target="Rpw-q_x05drDyyP509-S-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="478" y="620" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="Rpw-q_x05drDyyP509-S-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rpw-q_x05drDyyP509-S-56" target="Rpw-q_x05drDyyP509-S-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="639" y="620" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
+        <mxCell id="Rpw-q_x05drDyyP509-S-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rpw-q_x05drDyyP509-S-56" target="Rpw-q_x05drDyyP509-S-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
+        <mxCell id="Rpw-q_x05drDyyP509-S-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rpw-q_x05drDyyP509-S-56" target="Rpw-q_x05drDyyP509-S-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="673" y="590" />
+              <mxPoint x="673" y="520" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
+        <mxCell id="Rpw-q_x05drDyyP509-S-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rpw-q_x05drDyyP509-S-56" target="Rpw-q_x05drDyyP509-S-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="703" y="590" />
+              <mxPoint x="703" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rpw-q_x05drDyyP509-S-56" target="Rpw-q_x05drDyyP509-S-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="673" y="590" />
+              <mxPoint x="673" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-56" value="홈페이지" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="524" y="570" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rpw-q_x05drDyyP509-S-52" target="Rpw-q_x05drDyyP509-S-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-58" value="로그인 실패" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rpw-q_x05drDyyP509-S-57">
+          <mxGeometry x="0.3333" y="1" relative="1" as="geometry">
+            <mxPoint x="35" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-59" value="상품등록" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="523" y="670" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-60" value="상품관리" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="443" y="670" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-61" value="판매현황" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="604" y="670" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-62" value="https://shop.com/prodPost" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="474" y="640" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-63" value="https://shop.com/sale" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="569" y="730" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-64" value="상품구매" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="733" y="570" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-65" value="상품조회" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="733" y="500" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-66" value="마이페이지" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="733" y="640" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-67" value="https://shop.com/prodManage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="373" y="730" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rpw-q_x05drDyyP509-S-71" value="1. 관리자&lt;br&gt;유저 관리 --- User DB에 있는 데이터를 가져와서 조회 (로직은 간단히 회원 DELETE 정도?)&lt;br&gt;서버 관리 --- prometheus로 상태 관리&lt;br&gt;문의 사항 --- 게시판 만들때 comment를 보냈던 것 참조하면 되지 않을까 생각&lt;br&gt;&lt;br&gt;2. 상인&lt;br&gt;상품 등록 --- Product DB에 있는 데이터에 (UPDATE) (로직은 일단 가볍게 상품 정보,가격,... 생각하기싫다..)&lt;br&gt;상품 관리 --- Product DB에 있는 데이터를 (DELETE), (READ)&lt;br&gt;판매 현황 --- 이건 spring으로 어떻게 구현해야 할지 아직 감이 안 잡히네요. (일단 일반회원이 상품구매를 한다면 이뤄지는 걸로)&lt;br&gt;&lt;br&gt;3. 일반회원&lt;br&gt;상품 조회 --- Product DB에 등록되어 있는 상품들을 조회(READ) 및 추가적인 로직은 선택 후 구매 또는 장바구니에 넣기&lt;br&gt;상품 구매 --- 조회에서 구매를 클릭하면 데이터들이 들어와 있는 상태로 마지막 결제&lt;br&gt;마이페이지(장바구니) --- 조회에서 장바구니를 클릭하면 데이터들이 들어와 있는 상태로 선택 후 조회를 하면 상품 조회" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="65" y="770" width="700" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
